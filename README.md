@@ -1,3 +1,12 @@
+# Wiki
+
+__________________________--
+
+https://github.com/5GIGABYTE/The-Old-Opera-Project.wiki.git
+
+______________________________--
+
+
 # Old Opera
 
 ____________________________
