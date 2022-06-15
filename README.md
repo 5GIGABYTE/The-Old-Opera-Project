@@ -2,7 +2,9 @@
 
 __________________________--
 
-https://github.com/5GIGABYTE/The-Old-Opera-Project.wiki.git
+https://github.com/5GIGABYTE/The-Old-Opera-Project/wiki
+
+Use the WIKI for inquiry information to call or email.
 
 ______________________________--
 
